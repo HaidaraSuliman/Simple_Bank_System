@@ -7,3 +7,4 @@ Release/
 *.pdb
 *.log
 *.tlog
+*.vcxproj.user
