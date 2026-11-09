@@ -3,6 +3,7 @@ x64/
 Debug/
 Release/
 *.obj
+*.exe
+*.pdb
 *.log
 *.tlog
-*.pdb
